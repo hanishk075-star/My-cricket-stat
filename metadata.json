@@ -1,0 +1,6 @@
+{
+  "name": "MyCricketStats",
+  "description": "Complete personal cricket career statistics, match tracking, performance analytics, and cricket knowledge hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

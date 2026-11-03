@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCricketStats</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_players">Players</string>
+    <string name="nav_matches">Matches</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_knowledge">Knowledge</string>
+    <string name="settings_title">Settings</string>
+</resources>
